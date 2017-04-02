@@ -39,4 +39,4 @@ The following figure shows a wrongly predicted sample.
 ## Dependencies
 * numpy library is required to perform matrix operations.
 * matplotlib.pyplot library is required to plot the images.
-* matplotlib.backends.backend_pdf.PdfPagesscipy function is required to convert the plots to pfd.
+* matplotlib.backends.backend_pdf.PdfPagesscipy function is required to convert the plots to pdf.
